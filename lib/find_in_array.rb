@@ -1,4 +1,3 @@
-def find_element_index(array, value_to_find)
   def find_element_index(array, value_to_find)
   count = 0
   found_value_index = nil
@@ -11,4 +10,3 @@ def find_element_index(array, value_to_find)
   found_value_index
 end
   # Add your solution here
-end
